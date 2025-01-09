@@ -1,0 +1,1 @@
+const partners = await db.query('SELECT id, name, email FROM partners');

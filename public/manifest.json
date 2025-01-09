@@ -1,0 +1,20 @@
+{
+  "short_name": "Zippee Traveler",
+  "name": "Zippee Traveler - Trip Details",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/enduser/trip", // Pagina iniziale per l'enduser
+  "display": "standalone",
+  "theme_color": "#4CAF50",
+  "background_color": "#FFFFFF"
+}
